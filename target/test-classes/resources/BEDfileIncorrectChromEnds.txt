@@ -1,0 +1,1 @@
+chr7	1000	999	otherInfo
